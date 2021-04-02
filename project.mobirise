@@ -50,6 +50,8 @@
     "gdpr": false,
     "uniqCompNum": 6,
     "versionPublish": "5.1.8",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
   "pages": {
