@@ -1,0 +1,11 @@
+.cards_vanilla {
+	transform-style: preserve-3d;
+	transform: perspective(1000px);
+	
+}
+
+.card_elem {
+
+	transform: translateZ(20px);
+
+}
